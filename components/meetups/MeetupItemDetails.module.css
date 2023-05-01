@@ -1,0 +1,21 @@
+.detail{
+    text-align: center;
+}
+.detail img{
+    height: 400px;
+    width: auto;
+}
+.detail h2 h3{
+    display: inline-block;
+    margin: 0 0 20px 10px;
+    text-transform: uppercase;
+}
+.detail address{
+    margin: 0 0 20px 10px;
+    text-transform: uppercase;
+}
+.detail span{
+    margin: 0 10px 0 0;
+    text-transform: uppercase;
+    font-weight: 700;
+}
