@@ -61,6 +61,7 @@ export async function getStaticProps(context) {
         description: meetup.description,
       })),
     },
+    revalidate:1,
   };
 }
 
